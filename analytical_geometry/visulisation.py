@@ -1,4 +1,4 @@
-from calculations import task1, task2, task3, task4
+from analytical_geometry.calculations import task1, task2, task3, task4
 import matplotlib.pyplot as plt
 import numpy as np
 

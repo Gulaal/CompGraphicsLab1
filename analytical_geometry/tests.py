@@ -1,5 +1,5 @@
 
-from main import task1, task2, task3, task4
+from analytical_geometry.main import task1, task2, task3, task4
 from math import inf
 import pytest
 

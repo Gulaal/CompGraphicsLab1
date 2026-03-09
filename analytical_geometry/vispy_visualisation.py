@@ -1,6 +1,6 @@
 import numpy as np
 from vispy import plot as plt
-from calculations import task1, task2, task3, task4
+from analytical_geometry.calculations import task1, task2, task3, task4
 
 def vispy_task1_plt(first_point: tuple, second_point: tuple):
     """y = kx + b"""

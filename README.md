@@ -1,1 +1,1 @@
-# CompGraphicsLab1
+# CompGraphicsLabs
